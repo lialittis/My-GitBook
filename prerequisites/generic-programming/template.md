@@ -52,6 +52,8 @@ int compare(const char (&p1)[N], const char (&p2)[M])
 }
 ```
 
+To know more about _Template_, please check more references.
+
 
 
 
