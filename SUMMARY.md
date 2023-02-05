@@ -6,11 +6,11 @@
 
 * [📔 System Security](paper-reviews/system-security.md)
 
-## C/C++ Code Training <a href="#c&cpp" id="c&cpp"></a>
+## C/C++ <a href="#c-and-cpp" id="c-and-cpp"></a>
 
-* [Important Instructions](c\&cpp/important-instructions.md)
-* [C++](c\&cpp/c++.md)
-* [C](c\&cpp/c.md)
+* [Important Instructions](c-and-cpp/important-instructions.md)
+* [C++](c-and-cpp/c++.md)
+* [C](c-and-cpp/c.md)
 
 ## Operation Systems
 
